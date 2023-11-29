@@ -1,0 +1,19 @@
+.btn-primary {
+  padding: 5px 30px 5px 30px;
+  font-size: xx-large;
+}
+
+.btn-normal {
+  padding: 5px 30px 5px 30px;
+  font-size: x-large;
+}
+
+button {
+  background-color: transparent;
+  color: aliceblue;
+  border: none;
+}
+
+button:hover {
+    background-color: rgb(128, 128, 128, 0.25);
+}

@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Compiled output from angular
+src/github.profile/dist
+src/github.profile/tmp
+src/github.profile/out-tsc
